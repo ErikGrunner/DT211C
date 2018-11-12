@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\erik\documents\week 9\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511192295 source:c:\users\erik\documents\week 9\problem1.c
+	<stdio.h>
+
+1511192842 source:c:\users\erik\documents\week 9\problem2.c
+	<stdio.h>
+
+1511193876 source:c:\users\erik\documents\week 9\problem3.c
+	<stdio.h>
+
+1511195734 source:c:\users\erik\documents\week 9\problem4.c
+	<stdio.h>
+
+1511197691 source:c:\users\erik\documents\week 9\problem5.c
+	<stdio.h>
+
